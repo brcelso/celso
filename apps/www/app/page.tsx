@@ -20,7 +20,7 @@ export default function IndexPage() {
     <div className="container relative pb-10">
       <StyleSwitcher />
       <PageHeader>
-        <PageHeaderHeading>Build it your component library.</PageHeaderHeading>
+        <PageHeaderHeading>Build your component library.</PageHeaderHeading>
         <PageHeaderDescription>
           Beautifully designed components that you can copy and paste into your
           apps. Accessible. Customizable. Open Source.
